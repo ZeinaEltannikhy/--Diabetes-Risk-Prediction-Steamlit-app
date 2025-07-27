@@ -33,6 +33,55 @@ The model uses the **Diabetes Prediction Dataset** with the following features:
 - Features: 8
 - Diabetes rate: ~35%
 
+---
+
+## 🖼️ Demo Screenshots
+
+### High Risk Example
+
+**Main Prediction Interface**  
+![High Risk Main]((https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20.jpg))
+
+**Prediction Explanation & Recommendations**  
+![High Risk Explanation]((https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20continue.jpg))
+
+---
+
+### Low Risk Example
+
+**Main Prediction Interface**  
+![Low Risk Main]((https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/low%20risk.jpg))
+
+**Prediction Explanation & Recommendations**  
+![Low Risk Explanation](https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20continue.jpg))
+
+---
+
+## 📁 Project Structure
+
+```
+your-repo/
+├── diabetes.csv                      # Dataset
+├── diabetes_prediction_model.py       # Main ML analysis script
+├── streamlit_app.py                   # Web application
+├── requirements.txt                   # Dependencies
+├── README.md                          # Project documentation
+├── screenshot_highrisk_main.png       # High risk main interface screenshot
+├── screenshot_highrisk_explanation.png# High risk explanation screenshot
+├── screenshot_lowrisk_main.png        # Low risk main interface screenshot
+├── screenshot_lowrisk_explanation.png # Low risk explanation screenshot
+└── (Generated Visualizations)         # Created after running analysis
+    ├── correlation_matrix.png
+    ├── feature_distributions.png
+    ├── feature_boxplots.png
+    ├── roc_curves.png
+    ├── confusion_matrices.png
+    └── feature_importance.png
+```
+
+---
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -58,23 +107,6 @@ streamlit run streamlit_app.py
 
 The web app will open at `http://localhost:8501`
 
-## 📁 Project Structure
-
-```
-disease prediction model/
-├── diabetes.csv                    # Dataset
-├── diabetes_prediction_model.py    # Main ML analysis script
-├── streamlit_app.py               # Web application
-├── requirements.txt               # Dependencies
-├── README.md                     # This file
-└── Generated Visualizations/     # (Created after running)
-    ├── correlation_matrix.png
-    ├── feature_distributions.png
-    ├── feature_boxplots.png
-    ├── roc_curves.png
-    ├── confusion_matrices.png
-    └── feature_importance.png
-```
 
 ## 🔧 Features
 
