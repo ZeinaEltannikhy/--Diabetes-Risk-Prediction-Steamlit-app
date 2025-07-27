@@ -40,20 +40,20 @@ The model uses the **Diabetes Prediction Dataset** with the following features:
 ### High Risk Example
 
 **Main Prediction Interface**  
-![High Risk Main]((https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20.jpg))
+![High Risk Main](https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20.jpg)
 
 **Prediction Explanation & Recommendations**  
-![High Risk Explanation]((https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20continue.jpg))
+![High Risk Explanation](https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20continue.jpg)
 
 ---
 
 ### Low Risk Example
 
 **Main Prediction Interface**  
-![Low Risk Main]((https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/low%20risk.jpg))
+![Low Risk Main](https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/low%20risk.jpg)
 
 **Prediction Explanation & Recommendations**  
-![Low Risk Explanation](https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20continue.jpg))
+![Low Risk Explanation](https://github.com/ZeinaEltannikhy/--Diabetes-Risk-Prediction-Steamlit-app/blob/main/high%20risk%20continue.jpg)
 
 ---
 
